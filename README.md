@@ -3,7 +3,7 @@ My site:
 http://dvvolynkin.github.io
 
 ## How to develop
-1) Fork this repo and rename it to yours
+1) Fork this repo and rename it to {your_github_profile_name}.github.io
 2) Clone a repo
 3) Type this to install and use nodejs 14
 ```shell
