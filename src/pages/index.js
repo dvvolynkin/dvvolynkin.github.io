@@ -12,8 +12,12 @@ const IndexPage = () => (
     <div className="holding-copy">
       <h1>Daniel Volynkin</h1>
       <p>Entrepreneur, engineer.</p>
-      <a href="https://github.com/dvvolynkin">GitHub</a>
-      <a href="https://x.com/dvvolynkin">Twitter</a>
+      <nav>
+        <a href="https://github.com/dvvolynkin">GitHub</a>
+        <a href="https://x.com/dvvolynkin">Twitter</a>
+        <a href="https://t.me/dvvolynkin">Telegram</a>
+        <a href="https://www.instagram.com/dvvolynkin">Instagram</a>
+      </nav>
     </div>
   </main>
 )

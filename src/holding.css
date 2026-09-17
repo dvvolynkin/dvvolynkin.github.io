@@ -41,8 +41,10 @@
   text-underline-offset: 4px;
 }
 
-.holding a + a {
-  margin-left: 24px;
+.holding nav {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
 }
 
 .holding a:hover {
