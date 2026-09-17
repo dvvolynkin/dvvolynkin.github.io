@@ -13,6 +13,7 @@ const IndexPage = () => (
       <h1>Daniel Volynkin</h1>
       <p>Entrepreneur, engineer.</p>
       <a href="https://github.com/dvvolynkin">GitHub</a>
+      <a href="https://x.com/dvvolynkin">Twitter</a>
     </div>
   </main>
 )

@@ -41,6 +41,10 @@
   text-underline-offset: 4px;
 }
 
+.holding a + a {
+  margin-left: 24px;
+}
+
 .holding a:hover {
   color: #272724;
   text-decoration: underline;
