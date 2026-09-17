@@ -17,6 +17,7 @@ const IndexPage = () => (
         <a href="https://x.com/dvvolynkin">Twitter</a>
         <a href="https://t.me/dvvolynkin">Telegram</a>
         <a href="https://www.instagram.com/dvvolynkin">Instagram</a>
+        <a href="mailto:me@dvvolynkin.com">Email</a>
       </nav>
     </div>
   </main>
