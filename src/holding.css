@@ -52,6 +52,17 @@
   text-decoration: underline;
 }
 
+@media (max-width: 480px) {
+  .holding nav {
+    flex-direction: column;
+  }
+
+  .holding a {
+    min-height: 48px;
+    font-size: 17px;
+  }
+}
+
 .holding a:focus-visible {
   outline: 2px solid #272724;
   outline-offset: 4px;
